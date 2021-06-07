@@ -1,0 +1,744 @@
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\Backup_Restore.exe.config
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\Backup_Restore.exe
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\Backup_Restore.pdb
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Data.v19.2.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Utils.v19.2.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Data.v19.2.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Utils.v19.2.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.csprojResolveAssemblyReference.cache
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.FormDangNhap.resources
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.FormMain.resources
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.Properties.Resources.resources
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.csproj.GenerateResource.Cache
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.exe
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.pdb
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraBars.v19.2.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Office.v19.2.Core.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Images.v19.2.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraBars.v19.2.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Office.v19.2.Core.xml
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+c:\users\tien\documents\visual studio 2015\Projects\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.exe.licenses
+E:\Backup_Restore\Backup_Restore\bin\Debug\Backup_Restore.exe.config
+E:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.exe
+E:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.pdb
+E:\Backup_Restore\Backup_Restore\bin\Debug\Backup_Restore.exe
+E:\Backup_Restore\Backup_Restore\bin\Debug\Backup_Restore.pdb
+E:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.FormDangNhap.resources
+E:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.FormMain.resources
+E:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.Properties.Resources.resources
+E:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.csproj.GenerateResource.Cache
+E:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.exe.licenses
+E:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.csprojResolveAssemblyReference.cache
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\Backup_Restore.exe.config
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\Backup_Restore.exe
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\Backup_Restore.pdb
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\obj\Debug\Backup_Restore.csprojResolveAssemblyReference.cache
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\obj\Debug\Backup_Restore.FormDangNhap.resources
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\obj\Debug\Backup_Restore.FormMain.resources
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\obj\Debug\Backup_Restore.Properties.Resources.resources
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\obj\Debug\Backup_Restore.csproj.GenerateResource.Cache
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\obj\Debug\Backup_Restore.exe.licenses
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\obj\Debug\Backup_Restore.exe
+C:\Users\Tien\Desktop\demo\Backup_Restore55555\Backup_Restore\obj\Debug\Backup_Restore.pdb
+E:\Backup_Restore55555\Backup_Restore\bin\Debug\Backup_Restore.exe.config
+E:\Backup_Restore55555\Backup_Restore\obj\Debug\Backup_Restore.exe
+E:\Backup_Restore55555\Backup_Restore\obj\Debug\Backup_Restore.pdb
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Data.v20.1.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraBars.v20.1.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Office.v20.1.Core.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Data.v20.1.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\Backup_Restore.exe.config
+E:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.exe
+E:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.pdb
+E:\Backup_Restore55\Backup_Restore\bin\Debug\Backup_Restore.exe
+E:\Backup_Restore55\Backup_Restore\bin\Debug\Backup_Restore.pdb
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Data.v20.1.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraBars.v20.1.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Office.v20.1.Core.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Data.v20.1.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.csprojResolveAssemblyReference.cache
+E:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.FormDangNhap.resources
+E:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.FormMain.resources
+E:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.Properties.Resources.resources
+E:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.csproj.GenerateResource.Cache
+E:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.exe.licenses
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\Backup_Restore.exe.config
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\Backup_Restore.exe
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\Backup_Restore.pdb
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.csprojResolveAssemblyReference.cache
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.FormDangNhap.resources
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.FormMain.resources
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.Properties.Resources.resources
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.csproj.GenerateResource.Cache
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.exe.licenses
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.exe
+C:\Users\DNT\OneDrive\Desktop\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.pdb
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\Backup_Restore.exe.config
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.exe
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.pdb
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\Backup_Restore.exe
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\Backup_Restore.pdb
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.csprojResolveAssemblyReference.cache
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.FormLogin.resources
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.FormMain.resources
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.Properties.Resources.resources
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.csproj.GenerateResource.Cache
+C:\Users\DNT\OneDrive\Desktop\Craps\Backup_Restore55\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.exe.licenses
+D:\Backup_Restore55\Backup_Restore\bin\Debug\Backup_Restore.exe.config
+D:\Backup_Restore55\Backup_Restore\bin\Debug\Backup_Restore.exe
+D:\Backup_Restore55\Backup_Restore\bin\Debug\Backup_Restore.pdb
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.csprojAssemblyReference.cache
+D:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.FormLogin.resources
+D:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.FormMain.resources
+D:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.Properties.Resources.resources
+D:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.csproj.GenerateResource.cache
+D:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.exe.licenses
+D:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.csproj.CoreCompileInputs.cache
+D:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.csproj.CopyComplete
+D:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.exe
+D:\Backup_Restore55\Backup_Restore\obj\Debug\Backup_Restore.pdb
+D:\Backup_Restore\Backup_Restore\bin\Debug\Backup_Restore.exe.config
+D:\Backup_Restore\Backup_Restore\bin\Debug\Backup_Restore.exe
+D:\Backup_Restore\Backup_Restore\bin\Debug\Backup_Restore.pdb
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.csprojAssemblyReference.cache
+D:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.FormLogin.resources
+D:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.FormMain.resources
+D:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.Properties.Resources.resources
+D:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.csproj.GenerateResource.cache
+D:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.exe.licenses
+D:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.csproj.CoreCompileInputs.cache
+D:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.csproj.CopyComplete
+D:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.exe
+D:\Backup_Restore\Backup_Restore\obj\Debug\Backup_Restore.pdb
